@@ -1,5 +1,5 @@
 <h1 align="center">Akash Singh</h1>
-<h3 align="center">Software Engineer | Python Backend | Automation Architect</h3>
+<h3 align="center">Software Engineer • Python Backend • Automation Systems</h3>
 
 <p align="center">
 Gurgaon, India • Nokia Solutions & Networks  
@@ -7,85 +7,88 @@ Gurgaon, India • Nokia Solutions & Networks
 
 ---
 
-## 🚀 About Me
+## ⚙️ Professional Overview
 
-Backend-focused Software Engineer building production-grade internal systems at **Nokia**.
+Backend-focused software engineer building production-grade internal systems and workflow automation platforms.
 
-I specialize in:
-
-- Scalable Python backend systems
-- Network data parsing & validation
+Specialized in:
+- Large-scale JSON data parsing
+- Validation engine development
+- Backend dashboard systems
 - Enterprise workflow automation
-- Full-stack internal engineering platforms
-- IIS & Linux production deployments
-- AI-assisted development workflows
+- IIS & Linux deployment environments
 
-I build tools that reduce engineering effort by **90–95%**.
+Delivered internal tools reducing manual engineering effort by 90–95%.
 
 ---
 
-## 🏗 What I Build
+## 🏗 Core Engineering Work
 
 ### 🔹 Network Configuration Validation Engine
-Python-based validation engine performing 20+ compliance checks (ISIS, BFD, LLDP, RSVP, Interfaces)
 
-- Parses massive JSON router dumps
-- Stores structured data in MySQL
-- Django dashboard with filters & reporting
-- Reduced network audit time by 95%
+- Modular compliance engine performing 20+ protocol checks (ISIS, BFD, LLDP, RSVP)
+- Parses large router JSON datasets
+- Structured storage in MySQL
+- Django dashboard with search, filters & reporting
+- Reduced audit time by 95%
+
+Architecture Flow:
+
+Router Dump → Parser Layer → Validation Engine → MySQL → Django Dashboard
 
 ---
 
-### 🔹 Inventory Management System
-Flask + MySQL full-stack platform
+### 🔹 Inventory Management Platform
 
+- Flask + MySQL full-stack application
 - Bulk Excel ingestion (openpyxl)
-- Live tracking
-- Optimized search & pagination
-- Production-ready deployment
+- Search, pagination, live tracking
+- Production deployment for internal usage
 
 ---
 
-### 🔹 Lab Booking Automation Platform
-- Real-time email workflow
-- Conflict prevention
-- Admin panel with scheduling engine
+### 🔹 Enterprise Deployment Experience
+
+- Deployed Flask applications using IIS + wfastcgi
+- Resolved HTTP 500.19 and routing issues
+- Configured secure application pools & bindings
+- Experience with Linux-based environments
 
 ---
 
-### 🔹 IIS-Deployed Enterprise Platform
-- Flask deployment using wfastcgi
-- Solved HTTP 500.19 + routing issues
-- Secured internal IP-based architecture
+## 🧰 Technical Stack
+
+Backend: Python, Flask, Django  
+Automation: Selenium, Pandas  
+Database: MySQL  
+Deployment: IIS, Linux  
+Testing & CI/CD: Jenkins, GitHub Actions  
+Data Processing: JSON, XML  
 
 ---
 
-## 🛠 Core Stack
+## 📊 GitHub Activity
 
-**Backend:** Python, Flask, Django  
-**Automation:** Selenium, Pandas  
-**Database:** MySQL  
-**DevOps:** IIS, Linux, GitHub Actions, Jenkins  
-**Data:** JSON, XML parsing  
-**AI Tooling:** ChatGPT, Gemini, Ollama  
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Akash5523&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Akash5523&theme=dark&hide_border=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akash5523&theme=dark&hide_border=true)
 
 ---
 
-## 🎯 What I Focus On
+## 🎯 Engineering Focus
 
-✔ Production backend systems  
-✔ Enterprise automation  
-✔ Network-scale data processing  
-✔ Internal engineering platforms  
-✔ Clean, maintainable system architecture  
+✔ Backend system reliability  
+✔ Modular validation architectures  
+✔ Workflow automation  
+✔ Clean data processing pipelines  
+✔ Production-ready internal platforms  
 
 ---
 
-> I don't just write code. I build systems that engineers rely on daily.
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/akash-singh-56a118146/  
+Portfolio: https://akash5523.github.io/akash-portfolio/#  
+
+---
+
+> Building systems that reduce operational complexity.
